@@ -16,7 +16,7 @@ The previous designs (MK2 et. al) require the user to directly solder the power 
 
 To address this, the BigBed takes a cue from E3D's Varipower bed and adds pins for suitable Molex connectors that can be used to carry both power and the thermistor signal back to the printers' control board. Molex Micro-Fit connectors were chosen due to their small-footprint, good mechanical strength (to resist cable strain on moving beds) and relatively high current-carrying capacity.
 
-The BigBed has room for two of these connectors, where one connects the board in a 12V configuration and the other in a 24V configuration. We have connectors available that match with these connectors and provide suitable plugs for most control boards on the other end.
+The BigBed has room for two of these connectors, where one connects the board in a 12V configuration and the other in a 24V configuration. We have cables available that match with these connectors and provide suitable plugs for most control boards on the other end.
 
 We don't want to exclude anyone though, so the large pads used for directly soldering wires on earlier PCB heated beds are still present - feel free to directly attach wires if that's the best solution for your printer.
 
