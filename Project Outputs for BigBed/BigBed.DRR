@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: BigBed.PcbDoc   6/4/2016  8:00:39 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : BigBed.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             2         PTH        3.50mm (0.14inch)
+T2      0.5mm (20mil)                                             Round             1         PTH        0.00mm (0.00inch)
+T3      0.9mm (35mil)                                             Round             2         PTH        2.54mm (0.10inch)
+T4      1mm (39mil)                                               Round             12        PTH        63.00mm (2.48inch)
+T5      2mm (79mil)                                               Round             5         PTH        79.50mm (3.13inch)
+T6      3mm (118mil)                                              Round             2         PTH        24.00mm (0.94inch)
+T7      3.2mm (126mil)                                            Round             6         PTH        844.73mm (33.26inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              30
+
+Total Processing Time (hh:mm:ss) : 00:00:00

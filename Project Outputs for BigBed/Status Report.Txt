@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [BigBed.PrjPcb]
+   Generated File[BigBed.GTL]
+   Generated File[BigBed.GBL]
+   Generated File[BigBed.GTO]
+   Generated File[BigBed.GTP]
+   Generated File[BigBed.GTS]
+   Generated File[BigBed.GBS]
+   Generated File[BigBed.GBP]
+   Generated File[BigBed.GBO]
+   Generated File[BigBed.GKO]
+   Generated File[BigBed.RUL]
+   Generated File[BigBed.EXTREP]
+   Generated File[BigBed.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 8:04:45 PM On 6/4/2016
