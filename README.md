@@ -1,3 +1,5 @@
+**Please note that BigBed is still in development and is not ready for use - we're in the testing phase right now, and should be ready to go shortly. Thanks for your patience!**
+
 # Aus3D BigBed
 
 BigBed is an open-source PCB heated-bed for RepRap 3D printers. It is based on [earlier PCB heated bed designs](http://reprap.org/wiki/PCB_Heatbed), but incorporates several key improvements. It features many of the same design choices from the popular MK2, MK2b and MK3 open-source heated beds, and should feel quite familiar to anyone who has used one of those designs before.
