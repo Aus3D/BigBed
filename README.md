@@ -33,6 +33,9 @@ BigBed's size was selected to provide an optimum between print volume, electroni
 #Dimensions and Mounting
 ![Dimensions](https://raw.githubusercontent.com/Aus3D/BigBed/master/Images/Composite%20Drawing%20Small.png "Dimensions")
 
+#Where to Buy
+Once we've got the design thoroughly tested and are happy that everything is working smoothly, we'll have these boards up for sale on the [Aus3D](http://aus3d.com.au/) website.
+
 # Open Source
 In the spirit of the RepRap project, BigBed is fully open source - files to manufacture or modify a board of your own are included in this repository. BigBed is licensed under a GPLv3 license, and anyone is free to modify it, manufacture it, sell it - as long as you share your modifications under the same license, we're good!
 
