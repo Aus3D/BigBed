@@ -1,12 +1,21 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [BigBed.PrjPcb]
-   Generated File[BigBed.TXT]
-   Generated File[BigBed.LDP]
-   Generated File[BigBed.DRR]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [BigBed.PrjPcb]
+   Generated File[BigBed.GTL]
+   Generated File[BigBed.GBL]
+   Generated File[BigBed.GTO]
+   Generated File[BigBed.GTP]
+   Generated File[BigBed.GTS]
+   Generated File[BigBed.GBS]
+   Generated File[BigBed.GBP]
+   Generated File[BigBed.GBO]
+   Generated File[BigBed.GKO]
+   Generated File[BigBed.RUL]
+   Generated File[BigBed.EXTREP]
+   Generated File[BigBed.REP]
 
 
-Files Generated   : 3
+Files Generated   : 12
 Documents Printed : 0
 
-Finished Output Generation At 9:23:28 PM On 6/4/2016
+Finished Output Generation At 6:31:05 PM On 6/29/2016
